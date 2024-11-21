@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haider\\Desktop\\PerformanceEngine\\PerformanceEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A57E253-43CD-4155-B73D-C8A7B40F2E44}|PerformanceEngine.vcxproj|C:\\Users\\Haider\\Desktop\\PerformanceEngine\\PerformanceEngine\\PerformanceEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A57E253-43CD-4155-B73D-C8A7B40F2E44}|PerformanceEngine.vcxproj|solutionrelative:PerformanceEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerformanceEngine.cpp",
+              "DocumentMoniker": "C:\\Users\\Haider\\Desktop\\PerformanceEngine\\PerformanceEngine\\PerformanceEngine.cpp",
+              "RelativeDocumentMoniker": "PerformanceEngine.cpp",
+              "ToolTip": "C:\\Users\\Haider\\Desktop\\PerformanceEngine\\PerformanceEngine\\PerformanceEngine.cpp",
+              "RelativeToolTip": "PerformanceEngine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T00:30:14.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
